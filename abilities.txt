@@ -1,0 +1,17 @@
+5 - HTML
+
+5 - CSS
+
+1 - Server code
+
+2 - Databases
+
+2 - SQL
+
+2 - Node (Express)
+
+1 - REST
+
+1 - Express
+
+1 - React
